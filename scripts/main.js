@@ -1,5 +1,6 @@
 import { KneelDiamonds } from "./KneelDiamonds.js"
 
+
 const mainContainer = document.querySelector("#container")
 
 const renderAllHTML = () => {
